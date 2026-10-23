@@ -1,0 +1,4 @@
+tier,n,impaired,impaired_rate
+Low,30,3,0.1
+Medium,5,4,0.8
+High,24,18,0.75
